@@ -1,0 +1,19 @@
+html body {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  background-color: #191f24;
+}
+
+body svg {
+  height: 100vh;
+  width: 100vw;
+}
+
+path#arbiter {
+  stroke: #b7c2cd;
+}
+
+path#ventures {
+  stroke: #b7c2cd;
+}
